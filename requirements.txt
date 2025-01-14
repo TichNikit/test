@@ -1,0 +1,5 @@
+requests
+psycopg2
+fr24
+PyQt5
+aiogram
