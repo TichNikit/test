@@ -2,7 +2,7 @@ from sqlalchemy.ext.asyncio import create_async_engine, async_sessionmaker
 
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 
-engine = create_async_engine("postgresql+asyncpg://postgres:nikitatnm2@localhost/planes")
+engine = create_async_engine("postgresql+asyncpg://postgres:password@localhost/planes")
 
 SessionLocal = async_sessionmaker(bind=engine)
 
