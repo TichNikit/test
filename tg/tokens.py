@@ -1,0 +1,2 @@
+token = "7232714234:AAEh451zb16ZK0RqOCcpUhajUh00rnXwxu0"
+id_bot = 232672193
